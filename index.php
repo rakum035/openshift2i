@@ -3,6 +3,6 @@
   <title>PHP Test</title>
  </head>
  <body>
- <?php echo '<p>This is the example of S2I image in openshift</p>'; ?> 
+ <?php echo '<p>This is s2i image deployed by command line</p>'; ?> 
  </body>
 </html>
